@@ -40,3 +40,33 @@ The Google Trends Dashboard in Power BI provides insights into the popularity an
 
 ![Real-Time Page](https://github.com/omkardhumma/Google-Trends/blob/master/Screenshot%20(4).png)
 
+### 4️. Rising & Top Keywords Page  
+- Provides insights into the most **trending and top-performing** keywords.  
+- **Power BI Search Value:** Displays **total searches (5239)** for Power BI-related terms.  
+- **Keyword Type Distribution:**  
+  - Shows a **color-coded bar** to categorize keywords (e.g., **Software, Topic, Corporation, 3D Printing**).  
+
+#### 🔥 Rising Keywords Section  
+- Highlights **keywords with increasing search trends**.  
+- **Key Metrics:**  
+  - **Title:** Name of the keyword.  
+  - **Type:** Category (e.g., **Corporation, Software, Topic, Field of Study**).  
+  - **Rising Values:** Numeric indicator of keyword growth.  
+  - **Links:** Provides access to more information.  
+- **Examples of Rising Keywords:**  
+  - **Microsoft Copilot (450 searches)**  
+  - **Microsoft Power BI Pro (500 searches)**  
+  - **Databricks (50 searches)**  
+  - **Query Language (350 searches)**  
+
+#### ⭐ Top Keywords Section  
+- Displays **keywords with consistently high search rankings**.  
+- **Examples of Top Keywords:**  
+  - **Business Intelligence (100 searches)**  
+  - **Microsoft Power BI (100 searches)**  
+  - **Microsoft (11 searches)**  
+  - **Data (10 searches)**  
+- **Insight:** Helps identify **industry-relevant and frequently searched terms**.
+
+![Rising and Top Keyword Page](https://github.com/omkardhumma/Google-Trends/blob/master/Screenshot%20(5).png)
+
