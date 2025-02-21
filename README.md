@@ -70,3 +70,10 @@ The Google Trends Dashboard in Power BI provides insights into the popularity an
 
 ![Rising and Top Keyword Page](https://github.com/omkardhumma/Google-Trends/blob/master/Screenshot%20(5).png)
 
+
+
+### Who Can Benefit?
+- Marketers & SEO Analysts – Identify trending keywords for content and advertising strategies.
+- Data Analysts & Business Strategists – Understand market interest and industry trends.
+- Researchers & Content Creators – Leverage keyword insights for topic selection and audience engagement.
+
