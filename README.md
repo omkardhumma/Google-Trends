@@ -22,4 +22,6 @@ The Google Trends Dashboard in Power BI provides insights into the popularity an
   - Y-Axis: **Search Volume**  
   - Each keyword is **color-coded** for clarity.  
 - **Granularity Toggle:** View data at **Monthly, Quarterly, and Yearly** levels.  
-- Highlights **trends, peaks, and dips** in keyword popularity over time. 
+- Highlights **trends, peaks, and dips** in keyword popularity over time.
+
+![Overview Page]()
