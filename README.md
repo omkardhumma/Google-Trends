@@ -8,9 +8,9 @@ The Google Trends Dashboard in Power BI provides insights into the popularity an
 ## Dashboard Pages and Key Insights
 
 ### 1. Overview Page
-  - Map Visualization: Shows keyword search data for 69 countries.
-  - Clustered Column Chart: Compares keyword search volume (X-axis: Keywords, Y-axis: Average Search Value).
-  - Line Chart: Displays keyword trends over the last 7 days (X-axis: Date, Y-axis: Search Volume).
+- **Map Visualization:** Displays keyword search data across 69 countries.  
+- **Clustered Column Chart:** Compares keyword search volume (X-axis: Keywords, Y-axis: Average Search Value).  
+- **Line Chart:** Tracks keyword trends over the past 7 days (X-axis: Date, Y-axis: Search Volume).
 
 ![Overview Page](https://github.com/omkardhumma/Google-Trends/blob/master/Screenshot%20(2).png)
 
